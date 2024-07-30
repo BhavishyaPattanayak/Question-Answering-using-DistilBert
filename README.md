@@ -1,3 +1,3 @@
 # Question-Answering-using-DistilBert
 
-working on the code right now, the model.fit snippet has problems, any contributions are welcome
+working on the code right now, the model.fit snippet has problems, any contributions are welcome :)
