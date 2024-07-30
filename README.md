@@ -1,3 +1,3 @@
 # Question-Answering-using-DistilBert
 
-currently working on the code
+working on the code right now, the model.fit has problems
